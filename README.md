@@ -5,7 +5,7 @@
 
 ### About me      
 
-[![Muyun99's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muyun99&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Muyun99's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muyun99&show_icons=true&include_all_commits=True)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm Muyun99.
 
