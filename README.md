@@ -9,8 +9,10 @@
 
 I'm Muyun99.
 
-🔭  I’m currently working on and learning:Weakly-supervised Semantic Segmentation.
+🔭  I’m currently working on and learning:Weakly-supervised Semantic Segmentation. 
+
 😄  My Blog: https://muyun.work/
+
 👉  My Wiki: https://muyun99.github.io/
 
 
