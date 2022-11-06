@@ -11,12 +11,15 @@
 
 I'm Muyun99.
 
-🔭  I’m currently working on and learning:Weakly-supervised Semantic Segmentation. 
+🔭  I’m currently working on and learning: Weakly-supervised Semantic Segmentation & Knowledge Distillation for Semantic Segmentation & Label noise & Anything about Autonomous Driving.
+
+💻  I will join [Horizon Robotics](https://www.horizon.ai/) as a Perception Algorithm Engineer.
 
 😄  My Blog: https://muyun.work/
 
 👉  My Wiki: https://muyun99.github.io/
 
+💬  My Telegram Channel: https://t.me/MuyunNote (for life) & https://t.me/Tacr0l1mus (for research)
 
 <!--
 **Muyun99/Muyun99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,4 +34,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+FYI about README emoji: https://github.com/guodongxiaren/README/blob/master/emoji.md
 -->
