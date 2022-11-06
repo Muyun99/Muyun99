@@ -11,7 +11,11 @@
 
 I'm Muyun99.
 
-🔭  I’m currently working on and learning: Weakly-supervised Semantic Segmentation & Knowledge Distillation for Semantic Segmentation & Label noise & Anything about Autonomous Driving.
+🔭  I’m currently working on and learning: 
+- Label noise 
+- Weakly-supervised Semantic Segmentation
+- Knowledge Distillation for Semantic Segmentation 
+- Anything about Autonomous Driving.
 
 💻  I will join [Horizon Robotics](https://www.horizon.ai/) as a Perception Algorithm Engineer.
 
