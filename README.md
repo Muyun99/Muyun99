@@ -12,7 +12,7 @@
 I'm Muyun99.
 
 🔭  I’m currently working on and learning: 
-- Label noise 
+- Label Noise 
 - Weakly-supervised Semantic Segmentation
 - Knowledge Distillation for Semantic Segmentation 
 - Anything about Autonomous Driving.
