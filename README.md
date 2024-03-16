@@ -20,6 +20,8 @@ I'm Muyun99.
 
 👉  My Wiki: https://muyun99.github.io/
 
+🚗  My Zhihu: https://www.zhihu.com/people/du-yun-40-53
+
 💬  My Telegram Channel: https://t.me/MuyunNote (for life) & https://t.me/Tacr0l1mus (for research)
 
 <!--
