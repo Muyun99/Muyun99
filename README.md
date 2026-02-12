@@ -14,7 +14,7 @@ I'm Muyun99.
 🔭  I’m currently working on and learning: 
 - Label Noise -> Weakly-supervised Learning -> Knowledge Distillation -> Anything about Autonomous Driving -> Anything about Embodied AI.
 
-💻  I am currently a perception algorithm engineer at [Horizon Robotics](https://www.horizon.cc/) (Shanghai), focused on doing research and implementation of Robotic Manipulation
+💻  I am currently a algorithm engineer at [Horizon Robotics](https://www.horizon.cc/) (Shanghai), focused on doing research and implementation of Robotic Manipulation
 
 😄  My Blog: https://muyun.work/
 
